@@ -6,7 +6,7 @@ AURIX™ TC275 개발 보드와 Easy Module Shield V1을 활용한 기초 프로
 
 ## TC275 ShieldBuddy
 
-<img src="https://www.infineon.com/export/sites/default/media/products/power_semiconductors_for_automotive/PS_Automotiv_Content/Hitex-shieldbuddytc275.jpg_1715417000.jpg" alt="TC275 ShieldBuddy" width="300">
+<img src="https://assets.infineon.com/is/image/infineon/hitex-shieldbuddytc275.jpeg" alt="TC275 ShieldBuddy" width="300">
 
 Hitex사에서 제작한 개발 보드로, Infineon사의 AURIX™ TC275 마이크로컨트롤러를 탑재하고 있다. Arduino Due/Mega2560과 동일한 폼 팩터를 사용하여 300개 이상의 Arduino 실드와 호환되며, 이를 통해 다양한 센서, 액추에이터, 통신 모듈 등을 연결하여 시스템을 손쉽게 확장할 수 있다.
 
